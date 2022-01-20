@@ -1,1 +1,44 @@
-# php-dasar
+# PEMBELAJARAN PHP DASAR
+
+## Urutan Topik Belajar
+
+- Hello World
+- Tipe Data Number
+- Tipe Data Boolean
+- Tipe Data String
+- Variable
+- Constant
+- Tipe Data Null
+- Tipe Data Array
+- Operator Aritmatika
+- Operator Penugasan
+- Operator Perbandingan
+- Operator Logika
+- Increment & Decrement
+- Operator Array
+- Expression, Statement & Block
+- Manipulasi String
+- If Statement
+- Switch Statement
+- Ternary Operator
+- Null Coalescing Operator
+- For Loop
+- While Loop
+- Do While Loop
+- Break & Continue
+- For Each Loop
+- Goto Operator
+- Function
+- Function Argument
+- Function Return Value
+- Variable Function
+- Anonymous Function
+- Arrow Function
+- Recursive Function
+- Komentar
+- String Function
+- Array Function
+- Is Function
+- Require & Include
+- Variable Scope
+- Reference
