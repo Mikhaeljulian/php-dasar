@@ -2,22 +2,22 @@
 
 ## Urutan Topik Belajar
 
-- Hello World
-- Tipe Data Number
-- Tipe Data Boolean
-- Tipe Data String
-- Variable
-- Constant
-- Tipe Data Null
-- Tipe Data Array
-- Operator Aritmatika
-- Operator Penugasan
-- Operator Perbandingan
-- Operator Logika
-- Increment & Decrement
-- Operator Array
-- Expression, Statement & Block
-- Manipulasi String
+- [x] Hello World
+- [x] Tipe Data Number
+- [x] Tipe Data Boolean
+- [x] Tipe Data String
+- [x] Variable
+- [x] Constant
+- [x] Tipe Data Null
+- [x] Tipe Data Array
+- [x] Operator Aritmatika
+- [x] Operator Penugasan
+- [x] Operator Perbandingan
+- [x] Operator Logika
+- [x] Increment & Decrement
+- [x] Operator Array
+- [x] Expression, Statement & Block
+- [x] Manipulasi String
 - If Statement
 - Switch Statement
 - Ternary Operator
