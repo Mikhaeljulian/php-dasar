@@ -18,23 +18,23 @@
 - [x] Operator Array
 - [x] Expression, Statement & Block
 - [x] Manipulasi String
-- If Statement
-- Switch Statement
-- Ternary Operator
-- Null Coalescing Operator
-- For Loop
-- While Loop
-- Do While Loop
-- Break & Continue
-- For Each Loop
-- Goto Operator
-- Function
-- Function Argument
-- Function Return Value
-- Variable Function
-- Anonymous Function
-- Arrow Function
-- Recursive Function
+- [x] If Statement
+- [x] Switch Statement
+- [x] Ternary Operator
+- [x] Null Coalescing Operator
+- [x] For Loop
+- [x] While Loop
+- [x] Do While Loop
+- [x] Break & Continue
+- [x] For Each Loop
+- [x] Goto Operator
+- [x] Function
+- [x] Function Argument
+- [x] Function Return Value
+- [x] Variable Function
+- [x] Anonymous Function
+- [x] Arrow Function
+- [x] Recursive Function
 - Komentar
 - String Function
 - Array Function
