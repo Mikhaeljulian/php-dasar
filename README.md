@@ -35,10 +35,10 @@
 - [x] Anonymous Function
 - [x] Arrow Function
 - [x] Recursive Function
-- Komentar
-- String Function
-- Array Function
-- Is Function
-- Require & Include
-- Variable Scope
-- Reference
+- [x] Komentar
+- [x] String Function
+- [x] Array Function
+- [x] Is Function
+- [x] Require & Include
+- [x] Variable Scope
+- [x] Reference
