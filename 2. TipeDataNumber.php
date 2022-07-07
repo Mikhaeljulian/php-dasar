@@ -2,7 +2,7 @@
     echo "Decimal : ";
     var_dump(1234);
 
-    echo "Octal : ";
+    echo "Octal : "; 
     var_dump(0123);
 
     echo "Hexadecimal : ";
