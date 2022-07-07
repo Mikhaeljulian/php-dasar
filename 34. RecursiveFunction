@@ -1,0 +1,9 @@
+<?php    
+function AngkaNatural($number) {    
+if($number<=10){    
+echo "$number <br/>";    
+AngkaNatural($number+1);    
+}  
+}    
+ 
+AngkaNatural(1);    
