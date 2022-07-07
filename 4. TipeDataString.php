@@ -22,3 +22,4 @@ ini adalah cara ke-3 membuat string
 bisa menggunakan heredoc
 MIKA;
  
+ 
